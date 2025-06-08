@@ -56,7 +56,7 @@ Install dependencies with:
 
 ```bash
 pip install pandas matplotlib seaborn numpy
----
+```
 
 ## Credits
 - Developed by Rudra Rathod.
