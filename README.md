@@ -60,4 +60,4 @@ pip install pandas matplotlib seaborn numpy
 
 ## Credits
 - Developed by Rudra Rathod.
-- Data sourced from IPL ball-by-ball match records (2008-2024).
+- Data sourced from IPL ball-by-ball match records (2008-2025).
