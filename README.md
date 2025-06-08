@@ -1,4 +1,4 @@
-# IPL 2008-2024 Data Analysis & Visualization
+# IPL 2008-2025 Data Analysis & Visualization
 
 This project provides a comprehensive exploratory data analysis (EDA) and visualization dashboard for IPL seasons from 2008 to 2024, based on detailed ball-by-ball match data. It uses Python libraries such as `pandas`, `matplotlib`, and `seaborn` to generate insightful plots and statistics across batting, bowling, fielding, teams, and venues.
 
